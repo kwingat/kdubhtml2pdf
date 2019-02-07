@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eKoopmans/html2pdf/issues"
+    "url": "https://github.com/kwingat/kdubhtml2pdf/issues"
   },
-  "homepage": "https://github.com/eKoopmans/html2pdf",
+  "homepage": "https://github.com/kwingat/kdubhtml2pdf",
   "dependencies": {
     "es6-promise": "^4.2.5",
     "html2canvas": "^1.0.0-alpha.12",
